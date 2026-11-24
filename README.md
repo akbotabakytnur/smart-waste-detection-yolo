@@ -1,7 +1,7 @@
 # smart-waste-detection-yolo
 # Smart Waste Sorting: YOLOv8n vs YOLO11n Battle (CSCI1409 Deep Learning)
 
-[![Open In Colab](https://colab.research.google.com/drive/1vGmAOhCOg2RZWlZo5ofyqBJHSD9B6pV3?usp=sharing)
+https://colab.research.google.com/drive/1vGmAOhCOg2RZWlZo5ofyqBJHSD9B6pV3?usp=sharing
 
 ## 1. Task Description
 This project builds a reproducible object detection pipeline for **automated waste sorting**. Instead of only tuning hyperparameters, we run a controlled **generation battle** comparing **YOLOv8n** (Baseline) against **YOLO11n** (Experiment) on the same 6-class garbage dataset.
